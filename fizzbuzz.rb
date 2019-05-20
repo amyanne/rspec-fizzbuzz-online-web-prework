@@ -4,3 +4,4 @@ def fizzbuzz (num)
   if num % 3 == 0 
     string = "Fizz"
   end
+end
